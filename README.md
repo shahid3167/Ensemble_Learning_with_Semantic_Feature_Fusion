@@ -65,14 +65,17 @@ This comparative study evaluates the developed ensemble model against the cuttin
   
 ### Statistical Analyses
 The statistical analysis is based on the **standard error method** that computes the **mean, standard deviation, critical value** (i.e., **z-score**), and **95% confidence interval** for a sample of **accuracy, sensitivity, specificity, MCC,** and **AUC-ROC**. These analyses aim to validate the quantitative results against the individual **FCN, CNN, GRU**, and **LSTM** models, respectively.
-  
+
+<p align="center">
+Statistical analyses highlighting mean, standard deviation, and 95% confidence interval for various models.
+<p align="center">
+<img src="https://github.com/shahid3167/Ensemble_Learning_with_Semantic_Feature_Fusion/blob/a8ab126280bf068166d92b26a81fc86bf21f0e14/Figures/Statistical_Analysis.jpg" width="700" height="400">
   
   ### References
   [49]. Shou-Hui Guo, En-Ze Deng, Li-Qin Xu, Hui Ding, Hao Lin, Wei Chen, and Kuo-Chen Chou. inuc-pseknc: a sequence-based predictor for
   predicting nucleosome positioning in genomes with pseudo k-tuple nucleotide composition. Bioinformatics, 30(11):1522–1529, 2014.
   
-  [50].  Muhammad Tahir and Maqsood Hayat. inuc-stnc: a sequence-based predictor for identification of nucleosome positioning in genomes by
-  extending the concept of saac and chou’s pseaac. Molecular BioSystems, 12(8):2587–2593, 2016.
+  [50].  Muhammad Tahir and Maqsood Hayat. inuc-stnc: a sequence-based predictor for identification of nucleosome positioning in genomes by extending the concept of saac and chou’s pseaac. Molecular BioSystems, 12(8):2587–2593, 2016.
 
   [54]. Guo-Sheng Han, Qi Li, and Ying Li. Nucleosome positioning based on dna sequence embedding and deep learning. BMC genomics, 23
   (Suppl 1):301, 2022.
