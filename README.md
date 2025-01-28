@@ -23,10 +23,17 @@ The developed framework is applied to three (**C. elegans, D. melanogaster, and 
 
 ### Tendency of the Correlated and Non-Related Features
 
+
+
 <p align="center">
-<img src="https://github.com/shahid3167/Ensemble_Learning_with_Semantic_Feature_Fusion/blob/c03e3790d62624efb3403b3f2d6770526188f908/Figures/BlandAltmanPlotFeatures.jpg" width="550" height="350">
+<img src="https://github.com/shahid3167/Ensemble_Learning_with_Semantic_Feature_Fusion/blob/c03e3790d62624efb3403b3f2d6770526188f908/Figures/BlandAltmanPlotFeatures.jpg" width="550" height="350">  <p align="right">
 
 **Bland Altman plot highlighting the tendency of the correlated and non-related features** 
+
+<p align="center">
+<img src="https://github.com/shahid3167/Ensemble_Learning_with_Semantic_Feature_Fusion/blob/e9b69355fcfe8c34e82d10be80d9c009ce212e09/Figures/FeatureFrequencies.jpg" width="550" height="350">
+  
+**Categorization of the features into semantically correlated and non-related features**  
 
 ### With and Without Semantic Fusion
 To highlight the **impact of semantic feature fusion**, a **with and without feature fusion** evaluation is conducted on the developed **ensemble learning framework**. The results showcased a significant influence on various performance metrics (**Accuracy, Sensitivity, and Specificity**) across the **C. elegans, D. melanogaster, and H. sapiens**  datasets.
@@ -35,6 +42,11 @@ To highlight the **impact of semantic feature fusion**, a **with and without fea
 <img src="https://github.com/shahid3167/Ensemble_Learning_with_Semantic_Feature_Fusion/blob/a007c764193dbd6663d3648de1d0d75cfffd9197/Figures/WithWithoutFusion_Accuracy.jpg" width="700" height="300">
 
 **Performance evaluation of the ensemble learning framework considering with and without semantic feature fusion**
+
+### Comparative Analyses against Individual Models
+This comparative study evaluates the performance of the developed ensemble model through accuracy, sensitivity, specificity, and MCC against the individual models FCN, CNN, GRU, and LSTM.
+
+
 
 
 
