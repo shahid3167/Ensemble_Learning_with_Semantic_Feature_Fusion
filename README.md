@@ -24,6 +24,11 @@ The developed framework is applied to three (**C. elegans, D. melanogaster, and 
 ### Tendency of the Correlated and Non-Related Features
 
 
+<p align="center">
+<img src="https://https://github.com/shahid3167/Ensemble_Learning_with_Semantic_Feature_Fusion/blob/2efd6639f13d05125fda43c2e84c1f7c3a9a2019/Figures/BlandAltmanPlotFeatures.jpg" width="700" height="300">
+
+Bland Altman plot highlighting the tendency of the correlated and non-related features 
+
 ### With and Without Semantic Fusion
 To highlight the **impact of semantic feature fusion**, a **with and without feature fusion** evaluation is conducted on the developed **ensemble learning framework**. The results showcased a significant influence on various performance metrics (**Accuracy, Sensitivity, and Specificity**) across the **C. elegans, D. melanogaster, and H. sapiens**  datasets.
 
