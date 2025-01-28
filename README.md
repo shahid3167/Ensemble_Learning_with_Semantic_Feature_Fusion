@@ -25,5 +25,7 @@ The developed framework is applied to three (**C. elegans, D. melanogaster, and 
 To highlight the **impact of semantic feature fusion**, a **with and without feature fusion** evaluation is conducted on the developed **ensemble learning framework**. The results showcased a significant influence on various performance metrics (**Accuracy, Sensitivity, and Specificity**) across the **C. elegans, D. melanogaster, and H. sapiens**  datasets.
 
 <p align="center">
-<img src="https://github.com/shahid3167/Ensemble_Learning_with_Semantic_Feature_Fusion/blob/ca8c6adafb0b3b6ca913754e6ebf90237e1122f1/Figures/SystemModel.jpg" width="700" height="500">
+<img src="https://github.com/shahid3167/Ensemble_Learning_with_Semantic_Feature_Fusion/blob/a007c764193dbd6663d3648de1d0d75cfffd9197/Figures/WithWithoutFusion_Accuracy.jpg" width="700" height="300">
+
+
 
