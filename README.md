@@ -27,5 +27,7 @@ To highlight the **impact of semantic feature fusion**, a **with and without fea
 <p align="center">
 <img src="https://github.com/shahid3167/Ensemble_Learning_with_Semantic_Feature_Fusion/blob/a007c764193dbd6663d3648de1d0d75cfffd9197/Figures/WithWithoutFusion_Accuracy.jpg" width="700" height="300">
 
+**Performance evaluation of the ensemble learning framework considering with and without semantic feature fusion**
+
 
 
