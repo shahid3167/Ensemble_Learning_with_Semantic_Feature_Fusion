@@ -82,7 +82,16 @@ predicting nucleosome positioning in genomes with pseudo k-tuple nucleotide comp
 [54]. Guo-Sheng Han, Qi Li, and Ying Li. Nucleosome positioning based on dna sequence embedding and deep learning. BMC genomics, 23
 (Suppl 1):301, 2022.
 
+# Contact details
+## Dr. Shahid Hussain (shahid.hussain@mu.ie)
+### Affiliation:
+1. **National University of Ireland Maynooth (NUIM), Maynooth, Co. Kildare, W23 F2H6, Ireland**
+2. **Department of Computing, South East Technological University (SETU), Carlow Campus, Carlow, R93 V960, Ireland**
 
+## Dr. Muhammad Tahir (muhammadtahir@awkum.edu.pk)
+### Affiliation:
+1. **Department of Electrical and Computer Engineering, University of Manitoba, Winnipeg, Manitoba, R3T5V6, Canada**
+2. **Department of Computer Science, Abdul Wali Khan University, Mardan, Mardan, 23200, Pakistan**
 
 
 
