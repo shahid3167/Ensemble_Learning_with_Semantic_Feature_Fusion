@@ -53,6 +53,8 @@ This comparative study evaluates the performance of the developed ensemble model
 <p align="center">
   Comparative study of the ensemble model against individual models  
 
+### Comparative Analyses against State-of-the-art Models
+This comparative study evaluates the developed ensemble model against the cutting-edge models **iNuc-PseKNC [49]**, **iNuc-STNC [50]**, and **NP_CBiR [54]**, focusing on the DNA sequence identification problem.
 
 
 
