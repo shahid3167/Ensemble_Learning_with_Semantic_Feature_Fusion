@@ -8,8 +8,11 @@ This work emphased the spatio-temporal dependencies inherent in the DNA sequence
 
 **System model of the ensemble learning framework highlighting data, feature fusion, and model spaces**
 
-## Data Space
+### Data Space
 The **Data Space** represents the continuous nature of DNA and RNA sequences and emphasizes the necessity of transforming these continuous chains into **semantic vector representations** through **tokenization and vectorization** processes. 
 
-## Feature Fusion Space
-The **semantic feature space** presents the cosine **semantic similarity mechanism** to characterize the semantic relationship among the vectorized tokens and subsequently **fuse the correlated features into a semantic vector** that is utilized in the developed framework.
+### Feature Fusion Space
+The **Feature Space** presents the cosine **semantic similarity mechanism** to characterize the semantic relationship among the vectorized tokens and subsequently **fuse the correlated features into a semantic vector** that is utilized in the developed framework. A section also provides a detailed mathematical framework for identifying the semantic relationships and fusion mechanisms.
+
+### Model Space
+The **Model Space** presents a **mathematical framework** for the individual models such as **Fully Connected Network and Convolutional Neural Network** to capture the **spatial dependencies**, while **Gated Recurrent Unit and Long Short-Term Memory Networks** address the **temporal dependencies**. Furthermore, a **hybrid function** leveraging the **uniform and weighted inference** mechanisms fuses these **spatio-temporal-based models** into the developed **ensemble learning framework**.
