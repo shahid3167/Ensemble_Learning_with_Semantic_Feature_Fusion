@@ -56,5 +56,28 @@ This comparative study evaluates the performance of the developed ensemble model
 ### Comparative Analyses against State-of-the-art Models
 This comparative study evaluates the developed ensemble model against the cutting-edge models **iNuc-PseKNC [49]**, **iNuc-STNC [50]**, and **NP_CBiR [54]**, focusing on the DNA sequence identification problem.
 
+<p align="center">
+<img src="https://github.com/shahid3167/Ensemble_Learning_with_Semantic_Feature_Fusion/blob/05b813c012d0054adcb59afd993ca4307e35cb73/Figures/AverageComparativeStudyWithOtherModels.jpg" width="700" height="300">
+
+<p align="center">
+  Comparative study of the ensemble model against state-of-the-art models 
+
+  
+### Statistical Analyses
+The statistical analysis is based on the **standard error method** that computes the **mean, standard deviation, critical value** (i.e., **z-score**), and **95% confidence interval** for a sample of **accuracy, sensitivity, specificity, MCC,** and **AUC-ROC**. These analyses aim to validate the quantitative results against the individual **FCN, CNN, GRU**, and **LSTM** models, respectively.
+  
+  
+  ### References
+  [49]. Shou-Hui Guo, En-Ze Deng, Li-Qin Xu, Hui Ding, Hao Lin, Wei Chen, and Kuo-Chen Chou. inuc-pseknc: a sequence-based predictor for
+  predicting nucleosome positioning in genomes with pseudo k-tuple nucleotide composition. Bioinformatics, 30(11):1522–1529, 2014.
+  
+  [50].  Muhammad Tahir and Maqsood Hayat. inuc-stnc: a sequence-based predictor for identification of nucleosome positioning in genomes by
+  extending the concept of saac and chou’s pseaac. Molecular BioSystems, 12(8):2587–2593, 2016.
+
+  [54]. Guo-Sheng Han, Qi Li, and Ying Li. Nucleosome positioning based on dna sequence embedding and deep learning. BMC genomics, 23
+  (Suppl 1):301, 2022.
+
+
+
 
 
