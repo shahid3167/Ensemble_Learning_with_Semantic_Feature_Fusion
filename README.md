@@ -71,14 +71,16 @@ Statistical analyses highlighting mean, standard deviation, and 95% confidence i
 <p align="center">
 <img src="https://github.com/shahid3167/Ensemble_Learning_with_Semantic_Feature_Fusion/blob/a8ab126280bf068166d92b26a81fc86bf21f0e14/Figures/Statistical_Analysis.jpg" width="700" height="400">
   
-  ### References [Comparative study]
-  [49]. Shou-Hui Guo, En-Ze Deng, Li-Qin Xu, Hui Ding, Hao Lin, Wei Chen, and Kuo-Chen Chou. inuc-pseknc: a sequence-based predictor for
-  predicting nucleosome positioning in genomes with pseudo k-tuple nucleotide composition. Bioinformatics, 30(11):1522–1529, 2014.
-  
-  [50].  Muhammad Tahir and Maqsood Hayat. inuc-stnc: a sequence-based predictor for identification of nucleosome positioning in genomes by extending the concept of saac and chou’s pseaac. Molecular BioSystems, 12(8):2587–2593, 2016.
+# References 
+The following references are utlized in the comparative analyses.
 
-  [54]. Guo-Sheng Han, Qi Li, and Ying Li. Nucleosome positioning based on dna sequence embedding and deep learning. BMC genomics, 23
-  (Suppl 1):301, 2022.
+[49]. Shou-Hui Guo, En-Ze Deng, Li-Qin Xu, Hui Ding, Hao Lin, Wei Chen, and Kuo-Chen Chou. inuc-pseknc: a sequence-based predictor for
+predicting nucleosome positioning in genomes with pseudo k-tuple nucleotide composition. Bioinformatics, 30(11):1522–1529, 2014.
+
+[50].  Muhammad Tahir and Maqsood Hayat. inuc-stnc: a sequence-based predictor for identification of nucleosome positioning in genomes by extending the concept of saac and chou’s pseaac. Molecular BioSystems, 12(8):2587–2593, 2016.
+
+[54]. Guo-Sheng Han, Qi Li, and Ying Li. Nucleosome positioning based on dna sequence embedding and deep learning. BMC genomics, 23
+(Suppl 1):301, 2022.
 
 
 
