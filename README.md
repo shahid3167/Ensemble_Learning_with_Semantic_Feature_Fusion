@@ -83,10 +83,9 @@ predicting nucleosome positioning in genomes with pseudo k-tuple nucleotide comp
 (Suppl 1):301, 2022.
 
 # Contact details
-## Dr. Shahid Hussain (shahid.hussain@mu.ie)
+## Dr. Shahid Hussain (shahid.hussain@atu.ie)
 ### Affiliation:
-1. **National University of Ireland Maynooth (NUIM), Maynooth, Co. Kildare, W23 F2H6, Ireland**
-2. **Department of Computing, South East Technological University (SETU), Carlow Campus, Carlow, R93 V960, Ireland**
+**Atlantic Technological University (ATU), Dublin Road, Galway, H91 T8NW, Ireland**
 
 ## Dr. Muhammad Tahir (m.tahir@umanitoba.ca)
 ### Affiliation:
